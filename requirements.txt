@@ -1,22 +1,11 @@
-# Core Data Science Libraries
 numpy
 pandas
 scikit-learn
-
-# Machine Learning Models
 xgboost
-
-# Model Persistence
 joblib
-
-# Visualization (optional for Streamlit app)
 matplotlib
 seaborn
-
-# Web Framework for Deployment
-# Streamlit will automatically install: altair, pyarrow, tornado, protobuf, watchdog, etc.
-streamlit
-
-# Additional Utilities
 python-dateutil
 pytz
+streamlit==1.33.0
+altair==4.2.2
